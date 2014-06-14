@@ -1,0 +1,15 @@
+{
+    "name": "tobarja/flaming-bear",
+    "description": "Slim/PHP test site",
+    "authors": [
+        {
+            "name": "Andrew Thompson",
+            "email": "andrew@tobarja.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*"
+    },
+    "require-dev": {
+    }
+}
